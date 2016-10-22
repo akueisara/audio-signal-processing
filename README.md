@@ -8,3 +8,6 @@ Assignments for Audio Signal Processing for Music Applications on Coursera
 
 ## Week 2
 ### Programming Assignment: [Sinusoids and DFT](https://github.com/akueisara/audio-signal-processing/tree/master/week%202/A2)
+
+## Week 3
+### Programming Assignment: [Fourier Properties](https://github.com/akueisara/audio-signal-processing/tree/master/week%203/A3)
