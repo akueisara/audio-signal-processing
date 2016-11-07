@@ -14,4 +14,7 @@ Assignments for Audio Signal Processing for Music Applications on Coursera
 ### Programming Assignment: [Short-time Fourier Transform (STFT)](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%204)
 
 ## Week 5
-### Programming Assignment: [Sinusoidal model](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%205)
+### Programming Assignment: [Sinusoidal Model](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%205)
+
+## Week 6
+### Programming Assignment: [Harmonic Model](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%206)
