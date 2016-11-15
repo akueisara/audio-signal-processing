@@ -20,3 +20,6 @@ Assignments for Audio Signal Processing for Music Applications on Coursera
 
 ## Week 6
 ### Programming Assignment: [Harmonic Model](https://github.com/akueisara/audio-signal-processing/tree/master/week%206/A6)
+
+## Week 7
+### Peer-graded Assignment: [Sinusoidal plus residual](https://github.com/akueisara/audio-signal-processing/tree/master/week%207)
