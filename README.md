@@ -23,3 +23,6 @@ Assignments for Audio Signal Processing for Music Applications on Coursera
 
 ## Week 7
 ### Peer-graded Assignment: [Sinusoidal plus residual](https://github.com/akueisara/audio-signal-processing/tree/master/week%207)
+
+## Week 8
+### Peer-graded Assignment: [Transformations](https://github.com/akueisara/audio-signal-processing/tree/master/week%208)
