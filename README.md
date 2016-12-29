@@ -24,3 +24,6 @@ Assignments for Audio Signal Processing for Music Applications on Coursera
 
 ## Week 8
 ### Peer-graded Assignment: [Transformations](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%208)
+
+## Week 9
+### Peer-graded Assignment: [Sound and Music Description](https://github.com/akueisara/audio-signal-processing/tree/quiz/week%209)
